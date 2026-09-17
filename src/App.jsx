@@ -44,7 +44,7 @@ function App() {
       </div>
 
       {/* Supporting value statement. */}
-      <p className="tagline">
+      <p className="Building the Next Generation of Cloud Engineers — shipped from GitHub.">
         Nelson Mandela University | 14-17 September 2026 | Online 
       </p>
 
